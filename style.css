@@ -26,8 +26,8 @@ header {
   border: none;
   color: rgba(39, 33, 66, 0.4);
   font-size: 16px;
-  padding: 20px;
-  width: 75%;
+  padding: 17px;
+  width: 80%;
   border-radius: 6px;
 }
 
@@ -37,7 +37,8 @@ header {
   background-color: #885df1;
   color: white;
   border: none;
-  padding: 20px;
+  padding: 17px;
+  width: 18%;
   line-height: 1;
   border-radius: 5px;
 }
@@ -59,6 +60,7 @@ main {
   font-size: 38px;
   font-weight: 900;
   margin: 0;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .current-details {
   color: rgba(39, 33, 66, 0.4);
@@ -93,6 +95,7 @@ footer {
   border-top: 1px solid #f9f7fe;
   text-align: center;
   padding-top: 15px;
+  font-style: italic;
 
   color: rgba(39, 33, 66, 0.4);
 }
