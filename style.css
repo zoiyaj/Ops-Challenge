@@ -81,6 +81,7 @@ main {
 }
 
 .weatherAppIcon {
+  margin-top: 2px;
   width: 10px;
 }
 
