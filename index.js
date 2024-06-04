@@ -11,7 +11,7 @@ function displayTemperature(response) {
 
   let windElement = document.querySelector("#currentWind");
   windElement = response.data.wind.speed;
-  currentWind.innerHTML = windElement + "km";
+  currentWind.innerHTML = windElement + "km/h";
 
   let conditionElement = document.querySelector("#atmosphere");
   conditionElement = response.data.condition.description;
