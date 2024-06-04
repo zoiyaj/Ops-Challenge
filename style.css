@@ -81,7 +81,7 @@ main {
 }
 
 .weatherAppIcon {
-  position: relative;
+  position: center;
   width: 125px;
   padding-top: 8px;
   padding-bottom: 0;
