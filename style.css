@@ -82,8 +82,8 @@ main {
 
 .weatherAppIcon {
   position: relative;
-  top: -8px;
-  margin-right: 10px;
+  top: 5px;
+  margin-right: 2px;
 }
 
 .current-temperature-value {
