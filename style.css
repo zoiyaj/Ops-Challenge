@@ -80,7 +80,7 @@ main {
   color: #f65282;
 }
 
-.current-temperature .weatherAppIcon {
+.current-temperature img {
   display: inline;
   position: relative;
   width: 125px;
