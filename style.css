@@ -82,7 +82,7 @@ main {
 }
 
 .current-temperature img {
-  display: inline;
+  display: flex;
   position: relative;
   width: 125px;
   padding: 0px;
