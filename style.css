@@ -84,8 +84,7 @@ main {
   display: inline;
   position: relative;
   width: 125px;
-  padding-top: 15px;
-  padding-bottom: 0;
+  padding: 0px;
   margin-top: -20px;
   margin-left: -5px;
 }
